@@ -2,8 +2,6 @@
 
 # Beyond Outlier Removal: Integrated Ensemble Matching for Accurate Image Keypoint Correspondence
 
-Welcome to the official repository for "Beyond Outlier Removal: Integrated Ensemble Matching for Accurate Image Keypoint Correspondence".
-
 This repository hosts the code and resources related to our paper. Stay tuned for updates!
 
 Abstract
